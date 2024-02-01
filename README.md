@@ -1,6 +1,6 @@
 # Pair Programming Exercise
 
-Please create a page with list of Product components.
+Please create a page with a list of Product components.
 
 You can use whatever frontend framework you like to do the exercise.
 
