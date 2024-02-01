@@ -40,7 +40,7 @@ Response:
 {
     "products": [{
         "name": "Malarone",
-        "image: "https://github.com/healthbridgeltd/pair-programming-exercises/raw/master/frontend/byof/malarone.webp",
+        "image": "https://github.com/healthbridgeltd/pair-programming-exercises/raw/master/frontend/byof/malarone.webp",
         "dosages": [
             {
                 "dosage": "25 mg",
@@ -67,7 +67,7 @@ Response:
                 ],
             }
         ]
-    ]
+    }]
 }
 ```
 
